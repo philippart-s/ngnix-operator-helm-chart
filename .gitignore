@@ -1,2 +1,4 @@
 templates/_helpers.tpl
 ngnix-operator-helm-chart-1.0.0.tgz
+.helmignore
+.DS_Store
